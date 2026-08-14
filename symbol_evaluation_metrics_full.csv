@@ -1,0 +1,123 @@
+Class ID,Class Name,GT Instances (val),Precision,Recall,mAP@50,Status
+0,26,0,0.7761,0.8667,0.8715,Evaluated
+1,27,0,0.9038,0.9155,0.9534,Evaluated
+2,28,0,0.8341,0.6167,0.8124,Evaluated
+3,29,0,0.7239,0.8227,0.8506,Evaluated
+4,32,0,0.9547,0.8945,0.9688,Evaluated
+5,3_way_valve,0,0.9399,0.9444,0.9505,Evaluated
+6,air_cooler,0,,,,No GT instances in val split
+7,all,0,0,0,0.0765,Evaluated
+8,angle_valve,0,0.9515,0.8931,0.8956,Evaluated
+9,ate,0,,,,No GT instances in val split
+10,ball_valve,0,0.9087,0.7773,0.8968,Evaluated
+11,blind_flange,0,0.906,0.7064,0.8548,Evaluated
+12,butterfly_valve,0,0.8458,0.9156,0.9092,Evaluated
+13,centrifugal_pump,0,,,,No GT instances in val split
+14,check_valve,0,0.929,0.8653,0.9297,Evaluated
+15,choke_valve,0,0.8869,0.7282,0.8738,Evaluated
+16,closed_spectacle_blind,0,0.9333,0.9462,0.9546,Evaluated
+17,composition_controller,0,1,0,0.0172,Evaluated
+18,composition_indicator,0,1,0,0.695,Evaluated
+19,composition_transmitter,0,1,0,0.0254,Evaluated
+20,conical_roof_storage_tank,0,,,,No GT instances in val split
+21,continuous_stirred_tank_reactor,0,0.5627,0.6667,0.665,Evaluated
+22,control valve,0,0.6855,0.8696,0.7888,Evaluated
+23,cooling_tower,0,0.9476,0.8333,0.955,Evaluated
+24,diaphragm_valve,0,0.9405,0.9189,0.9724,Evaluated
+25,distilllation_column_with_reduced_top_diameter,0,1,0,0.0408,Evaluated
+26,distributed_control_system _indicator,0,0.5175,1,0.8957,Evaluated
+27,expansion_joint,0,0.9706,0.9565,0.9913,Evaluated
+28,external_level_indicator,0,0,0,0,Evaluated
+29,flanged_ball_valve,0,,,,No GT instances in val split
+30,flanged_connection,0,0.3674,0.2681,0.3222,Evaluated
+31,flanged_gate_valve,0,0,0,0,Evaluated
+32,flanged_pneumatic_diaphragm_operated_valve,0,0.9184,0.9452,0.9384,Evaluated
+33,floating_roof_tank,0,,,,No GT instances in val split
+34,flow_arrow,0,0.929,0.8901,0.9227,Evaluated
+35,flow_controller,0,1,0,0.0012,Evaluated
+36,flow_element,0,0.1197,0.1,0.0618,Evaluated
+37,flow_indicator,0,1,0,0,Evaluated
+38,flow_relay,0,,,,No GT instances in val split
+39,flow_transmitter,0,0.4432,0.3902,0.282,Evaluated
+40,flow_valve,0,1,0,0,Evaluated
+41,furnace,0,1,0,0.124,Evaluated
+42,gate_valve,0,0.8606,0.9144,0.9115,Evaluated
+43,globe_angle_valve,0,0.888,0.95,0.855,Evaluated
+44,globe_valve,0,0.8602,0.9477,0.9314,Evaluated
+45,globr,0,0,0,0,Evaluated
+46,heat exchanger,0,0.7664,1,0.995,Evaluated
+47,heat_exchanger,0,0.9574,0.918,0.965,Evaluated
+48,inaccessible_flow_control,0,0.3162,1,0.995,Evaluated
+49,inaccessible_flow_indicator,0,1,0,0.245,Evaluated
+50,instrument DCS,0,0.747,0.8726,0.8131,Evaluated
+51,interlock_logic_element,0,0.886,0.9588,0.9604,Evaluated
+52,jacketed_pipe,0,0.9597,0.933,0.9759,Evaluated
+53,jacketed_tank,0,1,0,0.0465,Evaluated
+54,jacketed_valve,0,,,,No GT instances in val split
+55,level_controller,0,1,0,0.0091,Evaluated
+56,level_gauge_recorder,0,1,0,0,Evaluated
+57,level_indicating_control,0,,,,No GT instances in val split
+58,level_indicator,0,0.5432,0.4615,0.399,Evaluated
+59,level_transmitter,0,0,0,0.011,Evaluated
+60,lind,0,,,,No GT instances in val split
+61,logic_function_block,0,0.9886,0.9531,0.9639,Evaluated
+62,mixed_storage_tank,0,0.9208,0.5789,0.7275,Evaluated
+63,needle_valve,0,0.897,0.9658,0.9799,Evaluated
+64,normally_closed_ball_valve,0,0.5354,0.2432,0.5108,Evaluated
+65,normally_closed_globe_valve,0,0.9453,0.9364,0.9764,Evaluated
+66,normally_closed_valve,0,0.9413,0.9763,0.9885,Evaluated
+67,normally_closed_vertical_valve,0,0.9401,0.9209,0.9437,Evaluated
+68,normally_open_gate_valve,0,0.8313,0.5459,0.7103,Evaluated
+69,normally_open_plug_valve,0,0.9623,0.8714,0.9593,Evaluated
+70,open_paddle_spacer,0,,,,No GT instances in val split
+71,open_spectacle_blind,0,0.8912,0.9038,0.9139,Evaluated
+72,open_top_tank,0,,,,No GT instances in val split
+73,page connection,0,0.9818,1,0.9948,Evaluated
+74,plate_heat_exhanger,0,1,0,0.0995,Evaluated
+75,plug_valve,0,0.8572,0.9125,0.8861,Evaluated
+76,plugged_pipe_end,0,,,,No GT instances in val split
+77,pneumatic_diaphragm_operated_valve,0,0.4571,0.8571,0.8567,Evaluated
+78,pneumatic_valve,0,0.7484,0.5724,0.5275,Evaluated
+79,pressure_control_valve,0,,,,No GT instances in val split
+80,pressure_controller,0,1,0,0.0224,Evaluated
+81,pressure_differential_indicating_controller,0,,,,No GT instances in val split
+82,pressure_differential_indicator,0,,,,No GT instances in val split
+83,pressure_differential_transmitter,0,,,,No GT instances in val split
+84,pressure_differential_valve,0,0,0,0,Evaluated
+85,pressure_element,0,,,,No GT instances in val split
+86,pressure_indicator,0,0,0,0.0628,Evaluated
+87,pressure_safety_valve,0,0.2104,0.2088,0.1821,Evaluated
+88,pressure_transmitter,0,0,0,0.0111,Evaluated
+89,pressure_vacuum_relief_valve,0,0.4302,0.9124,0.6769,Evaluated
+90,process_vessel,0,1,0,0,Evaluated
+91,pump,0,0.7524,0.7948,0.8749,Evaluated
+92,reducer_expander,0,0.8616,0.8315,0.8161,Evaluated
+93,removable_spool,0,0.5421,0.4639,0.4566,Evaluated
+94,restriction_orifice,0,0.6892,0.9056,0.7374,Evaluated
+95,safety_panel_indicator_light,0,0,0,0,Evaluated
+96,shared_display,0,0.3557,0.8283,0.4203,Evaluated
+97,shared_display_flow_indicating_controller,0,0.2715,0.3333,0.335,Evaluated
+98,shared_display_level_controller,0,1,0,0.3317,Evaluated
+99,shared_display_level_indicator,0,,,,No GT instances in val split
+100,shared_display_pressure_controller,0,,,,No GT instances in val split
+101,shared_display_pressure_indicating_controller,0,,,,No GT instances in val split
+102,shared_display_pressure_indicator,0,0,0,0,Evaluated
+103,shared_display_pressure_transmitter,0,0,0,0,Evaluated
+104,shared_display_temperature_controller,0,,,,No GT instances in val split
+105,solenoid_valve,0,0.9334,0.9574,0.9255,Evaluated
+106,spectable_blind,0,0.8841,0.8374,0.9101,Evaluated
+107,static_mixer,0,,,,No GT instances in val split
+108,storage_tank,0,0.4844,0.6667,0.555,Evaluated
+109,tag,0,,,,No GT instances in val split
+110,tank,0,0,0,0.0142,Evaluated
+111,temperature_control_valve,0,0,0,0,Evaluated
+112,temperature_controller,0,1,0,0.0183,Evaluated
+113,temperature_element,0,0,0,0.0037,Evaluated
+114,temperature_indicating_controller,0,0.1735,0.0867,0.1675,Evaluated
+115,temperature_indicator,0,0.2668,0.2174,0.1167,Evaluated
+116,temperature_transmitter,0,0.0821,0.0204,0.0303,Evaluated
+117,unclassified_relay_compute,0,,,,No GT instances in val split
+118,unclassified_state_indicator,0,,,,No GT instances in val split
+119,utility connection,0,0.9504,0.9971,0.9927,Evaluated
+120,vertical_flash_drum,0,0,0,0,Evaluated
+121,y_strainer,0,0.4506,0.6667,0.6153,Evaluated

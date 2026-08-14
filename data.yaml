@@ -1,0 +1,133 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+nc: 122
+names:
+- '26'
+- '27'
+- '28'
+- '29'
+- '32'
+- 3_way_valve
+- air_cooler
+- all
+- angle_valve
+- ate
+- ball_valve
+- blind_flange
+- butterfly_valve
+- centrifugal_pump
+- check_valve
+- choke_valve
+- closed_spectacle_blind
+- composition_controller
+- composition_indicator
+- composition_transmitter
+- conical_roof_storage_tank
+- continuous_stirred_tank_reactor
+- control valve
+- cooling_tower
+- diaphragm_valve
+- distilllation_column_with_reduced_top_diameter
+- distributed_control_system _indicator
+- expansion_joint
+- external_level_indicator
+- flanged_ball_valve
+- flanged_connection
+- flanged_gate_valve
+- flanged_pneumatic_diaphragm_operated_valve
+- floating_roof_tank
+- flow_arrow
+- flow_controller
+- flow_element
+- flow_indicator
+- flow_relay
+- flow_transmitter
+- flow_valve
+- furnace
+- gate_valve
+- globe_angle_valve
+- globe_valve
+- globr
+- heat exchanger
+- heat_exchanger
+- inaccessible_flow_control
+- inaccessible_flow_indicator
+- instrument DCS
+- interlock_logic_element
+- jacketed_pipe
+- jacketed_tank
+- jacketed_valve
+- level_controller
+- level_gauge_recorder
+- level_indicating_control
+- level_indicator
+- level_transmitter
+- lind
+- logic_function_block
+- mixed_storage_tank
+- needle_valve
+- normally_closed_ball_valve
+- normally_closed_globe_valve
+- normally_closed_valve
+- normally_closed_vertical_valve
+- normally_open_gate_valve
+- normally_open_plug_valve
+- open_paddle_spacer
+- open_spectacle_blind
+- open_top_tank
+- page connection
+- plate_heat_exhanger
+- plug_valve
+- plugged_pipe_end
+- pneumatic_diaphragm_operated_valve
+- pneumatic_valve
+- pressure_control_valve
+- pressure_controller
+- pressure_differential_indicating_controller
+- pressure_differential_indicator
+- pressure_differential_transmitter
+- pressure_differential_valve
+- pressure_element
+- pressure_indicator
+- pressure_safety_valve
+- pressure_transmitter
+- pressure_vacuum_relief_valve
+- process_vessel
+- pump
+- reducer_expander
+- removable_spool
+- restriction_orifice
+- safety_panel_indicator_light
+- shared_display
+- shared_display_flow_indicating_controller
+- shared_display_level_controller
+- shared_display_level_indicator
+- shared_display_pressure_controller
+- shared_display_pressure_indicating_controller
+- shared_display_pressure_indicator
+- shared_display_pressure_transmitter
+- shared_display_temperature_controller
+- solenoid_valve
+- spectable_blind
+- static_mixer
+- storage_tank
+- tag
+- tank
+- temperature_control_valve
+- temperature_controller
+- temperature_element
+- temperature_indicating_controller
+- temperature_indicator
+- temperature_transmitter
+- unclassified_relay_compute
+- unclassified_state_indicator
+- utility connection
+- vertical_flash_drum
+- y_strainer
+roboflow:
+  workspace: new-workspace-vpkjo
+  project: p-id-seed-model
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/new-workspace-vpkjo/p-id-seed-model/dataset/1
